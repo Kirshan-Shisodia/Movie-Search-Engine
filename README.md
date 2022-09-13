@@ -9,7 +9,8 @@ Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}
 Movie Details URL: https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}
 
 Icons & Font -
-Icons: ayushkul/react-movie-app
+Icons: https://i.ibb.co/tqZwQX8/movie-icon.png,
+https://i.ibb.co/wcm7w85/search-icon.png
 Font Link: <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
 Libraries used
 styled-components
